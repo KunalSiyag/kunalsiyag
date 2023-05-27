@@ -8,6 +8,6 @@
 <h3>You can connect with me here:</h3>
 <p align="left">
 <a href="https://twitter.com/Kunal_Siyag9" target="____blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kunal Siyag" height="80" width="60" ></a>
-<a href="linkedin.com/in/kunal-siyag-b70a08251/" target="____blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kunal Siyag" height="80" width="60" ></a>
+<a href="https://linkedin.com/in/kunal-siyag-b70a08251/" target="____blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kunal Siyag" height="80" width="60" ></a>
 <a href="https://instagram.com/_.kunal.1804?igshid=MjEwN2IyYWYwYw==" target="____blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kunal Siyag" height="80" width="60" ></a>
 </p>
