@@ -1,13 +1,73 @@
 <h1 align= "center" >Hi there 👋,I'm Kunal Siyag</h1>
 
-- 🔭 I’m currently working on my own Portfolio website.
-- 🌱 I’m currently learning Frontend, Java, Python, Solidity, Blockchain and more.
-- 👯 I’m looking to collaborate on Web3 Dapp projects.
-- 💬 Ask me about Blockchain, Java, Javascript, Solidity.
-- 📫 How to reach me: kunalsiyag829@gmail.com
-<h3>You can connect with me here:</h3>
-<p align="left">
-<a href="https://twitter.com/Kunal_Siyag9" target="____blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kunal Siyag" height="80" width="60" ></a>
-<a href="https://linkedin.com/in/kunal-siyag-b70a08251/" target="____blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kunal Siyag" height="80" width="60" ></a>
-<a href="https://instagram.com/_.kunal.1804?igshid=MjEwN2IyYWYwYw==" target="____blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kunal Siyag" height="80" width="60" ></a>
-</p>
+Hi, I'm a passionate **AI + Blockchain innovator** and student from India, crafting solutions that blend **emerging technologies** with real-world applications. Whether it's building smart wearables, predictive maintenance systems, or decentralized applications, I thrive on creating projects that are **functional, futuristic, and socially impactful**.
+
+> 🧠 _"Engineering the future, one intelligent system at a time."_
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages**  
+`Python` • `Java` • `JavaScript` • `C/C++` • `SQL` • `Solidity`
+
+**Frameworks & Libraries**  
+`React` • `Tailwind CSS` • `React Native` • `Node.js` • `scikit-learn` • `TensorFlow`
+
+**Blockchain**  
+`Solidity` • `Ethereum` • `Smart Contracts` • `Truffle` • `Ganache` • `MetaMask` • `IPFS`
+
+**AI/ML & APIs**  
+`ChatGPT API` • `Gemini API` • `Google TTS` • `Decision Trees` • `Data Preprocessing` • `Model Deployment`
+
+**Cloud & DevOps**  
+`AWS (Lambda, API Gateway, EC2, S3, Elastic Beanstalk)` • `Firebase` • `GitHub Actions`
+
+**IoT & Embedded Systems**  
+`ESP32-CAM` • `NodeMCU` • `Arduino` • `I2S Amplifier` • `Sensor Integration`
+
+---
+
+## 🌟 Featured Projects
+
+### 🦾 Spectopedia – Smart Glasses with AI Vision  
+Accessible wearable that captures scenes via ESP32-CAM and describes them with AI (ChatGPT/Gemini), relaying the output through an I2S audio module. Ideal for visually impaired users and real-time environmental feedback.
+
+### 🧠 Predictive Maintenance + Digital Twin Dashboard  
+A machine learning system deployed on AWS that analyzes real-time sensor data from IoT devices. Features a dashboard to manage and simulate multiple "digital twins."
+
+### 🌾 Smart Farming & Food Distribution  
+A React Native app for tracking food production, managing distribution, and connecting farmers to buyers. Built to reduce food wastage and increase agricultural efficiency.
+
+### 🔗 Decentralized Freelance Job Escrow (Blockchain)  
+A smart contract-based system ensuring trust between freelancers and clients using **dual OTP-based job verification** and conditional payments. Uses Ethereum testnet, Solidity, and MetaMask for DApp interaction.
+
+### .... And Many more
+---
+
+## 🔐 Blockchain Vision
+
+I'm actively exploring the use of **decentralized technology** in areas like:
+
+- **Freelance job security**  
+- **Transparent public service platforms**  
+- **Decentralized identity for IoT devices**  
+- **Asset tokenization in agriculture and investment apps**
+
+---
+
+## 📬 Let’s Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kunal-siyag-b70a08251/) 
+- 🌐 Portfolio: *Coming Soon*  
+- 📧 Email: kunalsiyag1@outlook.com
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kunalsiyag&theme=dark)       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsiyag&layout=compact&theme=vision-friendly-dark)  
+
+---
+
+> Thanks for stopping by! Whether you're a fellow developer, collaborator, or curious mind — feel free to explore, connect, and build something meaningful together. 🚀
