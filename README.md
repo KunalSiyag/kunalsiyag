@@ -93,6 +93,13 @@ Trust-aware protocols
 ![Web3](https://img.shields.io/badge/Web3-000000?style=for-the-badge)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs)
+---
+### 🌍 Major Open Source Contributions
+
+| Project | Status |
+|---|---|
+| [Kiwix mwoffliner](https://github.com/openzim/mwoffliner)  | ✅ Merged via PRs|
+| [Apache Impala](https://gerrit.cloudera.org/#/q/owner:kunalsiyag1%2540outlook.com+status:merged)| ✅ Merged via Gerrit|
 
 </td>
 </tr>
