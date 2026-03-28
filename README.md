@@ -38,18 +38,16 @@ Trust-aware protocols
 
 ## 📊 GitHub Insights
 
-<img src="https://streak-stats.demolab.com?user=KunalSiyag&theme=dark" />
+<img src="https://streak-stats.demolab.com?user=KunalSiyag&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KunalSiyag&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
-
-<br/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunalSiyag&theme=tokyonight" />
 
 </td>
 
 <td width="50%" valign="top">
+
 
 ## 🛠 Tech Stack
 
