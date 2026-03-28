@@ -242,7 +242,7 @@ Enables sustainable farming decisions and improves trust across stakeholders.
 </a>
 
 
-<a href="https://twitter.com/dazzBuilds">
+<a href="https://twitter.com/kunal_twts">
 <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x" />
 </a>
 
