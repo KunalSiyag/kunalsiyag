@@ -235,7 +235,7 @@ Enables sustainable farming decisions and improves trust across stakeholders.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/kunal-siyag-b70a08251/">
+<a href="https://www.linkedin.com/in/kunalsiyag/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -244,7 +244,7 @@ Enables sustainable farming decisions and improves trust across stakeholders.
 <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x" />
 </a>
 
-<a href="https://medium.com/@dazzBuilds">
+<a href="https://medium.com/@kunal_writes">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium" />
 </a>
 
