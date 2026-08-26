@@ -9,6 +9,10 @@ I build <b>secure, intelligent, and scalable systems</b> combining cloud infrast
 <br/>
 Focused on <b>production-grade engineering</b> — performance, reliability, and trust.
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KunalSiyag&label=Profile%20Views&color=0e75b6&style=flat" alt="Kunal Siyag Profile Views" />
+</p>
+
 
 <p align="center">
   <a href="https://kunalsiyag.github.io"><b>🌐 Explore Portfolio</b></a> • 
