@@ -1,7 +1,6 @@
 {
   "year": 2026,
   "title": "Completionist",
-  "highlight": "1st prize at OLake x Hacktoberfest with Ask OLake",
   "groups": [
     { "name": "Required", "color": "#3D5F58", "glyph": "HF", "stickers": [
       { "name": "Sign into Hacktoberfest.com", "earned": "2026-10-01" },
