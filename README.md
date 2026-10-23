@@ -20,13 +20,14 @@
 
 I like projects you can *watch*: a camera that chases a cursor, a city that argues with itself, a checkout that falls over under load. Lately that means Rust on Linux graphics, simulations run by AI agents, and tooling for the agents themselves.
 
-### currently
+### 2026 so far
 
-- **Ambassador for GMI Cloud and Factory AI**, and a **Nebius AI Builder**. I build on their platforms in public: GridFall and Chandrapur run on GMI Cloud, and GridFall was written with Factory's Droid
+- Became an ambassador for **GMI Cloud** and **Factory AI**, and a **Nebius AI Builder**. GridFall and Chandrapur run on GMI Cloud, and GridFall was written with Factory's Droid
+- Got into **Claude for Startups**
+- Won the **OLake x Hacktoberfest** hack day with [Ask OLake](https://github.com/KunalSiyag/ask-olake), a docs bot that admits when it doesn't know ([how it went](https://dev.to/kunalsiyag/i-won-first-prize-at-olake-x-hacktoberfest-with-a-docs-bot-that-says-i-dont-know-4bd5))
+- Picked up **$200** at the Hy 3.5 preview event
+- Became a **Hacktoberfest 2026 Completionist** ([sticker book](#hacktoberfest-2026))
 - Building **[SwarmCorp](https://github.com/KunalSiyag/swarmcorp)**, mission control for fleets of coding agents
-- Just won the OLake x Hacktoberfest hack day with [Ask OLake](https://github.com/KunalSiyag/ask-olake), a docs bot that admits when it doesn't know ([how it went](https://dev.to/kunalsiyag/i-won-first-prize-at-olake-x-hacktoberfest-with-a-docs-bot-that-says-i-dont-know-4bd5))
-- Picked up $200 at the Hy 3.5 preview event
-- Wrapping up Hacktoberfest 2026 as a Completionist ([sticker book](#hacktoberfest-2026))
 
 ### featured
 
