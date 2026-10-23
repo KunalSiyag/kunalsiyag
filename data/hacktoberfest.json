@@ -1,0 +1,49 @@
+{
+  "year": 2026,
+  "title": "Completionist",
+  "highlight": "1st prize at OLake x Hacktoberfest with Ask OLake",
+  "groups": [
+    { "name": "Required", "color": "#3D5F58", "glyph": "HF", "stickers": [
+      { "name": "Sign into Hacktoberfest.com", "earned": "2026-10-01" },
+      { "name": "Add your address to your MyMLH account", "earned": "2026-10-01" }
+    ]},
+    { "name": "DEV Challenges", "color": "#F5B726", "glyph": "DEV", "stickers": [
+      { "name": "Connect your DEV account", "earned": "2026-10-06" },
+      { "name": "Submit to the launch weekend DEV Challenge", "earned": null },
+      { "name": "Submit to the week 1 DEV Challenge", "earned": "2026-10-11" },
+      { "name": "Submit to the week 2 DEV Challenge", "earned": "2026-10-17" },
+      { "name": "Submit to the week 3 DEV Challenge", "earned": null },
+      { "name": "Submit to the week 4 DEV Challenge", "earned": null }
+    ]},
+    { "name": "Livestreams", "color": "#8BB2DE", "glyph": "▶", "stickers": [
+      { "name": "Check into a livestream", "earned": "2026-10-07" },
+      { "name": "Check into three livestreams", "earned": "2026-10-10" },
+      { "name": "Check into five livestreams", "earned": "2026-10-11" },
+      { "name": "Check into the Hacktoberfest launch livestream", "earned": null },
+      { "name": "Check into ten livestreams", "earned": "2026-10-14" },
+      { "name": "Check into fifteen livestreams", "earned": "2026-10-22" }
+    ]},
+    { "name": "Global Hack Week", "color": "#E53927", "glyph": "GHW", "stickers": [
+      { "name": "Complete Global Hack Week: Hacktoberfest's registration challenges", "earned": "2026-10-13" },
+      { "name": "Check into a Global Hack Week: Hacktoberfest livestream", "earned": "2026-10-09" },
+      { "name": "Earn 10 points at Global Hack Week: Hacktoberfest", "earned": "2026-10-13" },
+      { "name": "Secret sticker", "earned": "2026-10-13" },
+      { "name": "Earn 20 points at Global Hack Week: Hacktoberfest", "earned": null },
+      { "name": "Earn 30 points at Global Hack Week: Hacktoberfest", "earned": null },
+      { "name": "Secret sticker", "earned": null }
+    ]},
+    { "name": "Tools", "color": "#B4463C", "glyph": "</>", "stickers": [
+      { "name": "Install and log in to DevRelay", "earned": "2026-10-06" },
+      { "name": "Join the MLH Community Discord", "earned": "2026-10-01" },
+      { "name": "Connect your DigitalOcean account", "earned": "2026-10-06" }
+    ]},
+    { "name": "Surveys", "color": "#5E8A80", "glyph": "?", "stickers": [
+      { "name": "Complete the Hacktoberfest 2026 pre-event survey", "earned": "2026-10-06" },
+      { "name": "Complete the Hacktoberfest 2026 post-event survey", "earned": null }
+    ]},
+    { "name": "Fests", "color": "#E97B77", "glyph": "IRL", "stickers": [
+      { "name": "Attend an in-person Fest", "earned": "2026-10-18" },
+      { "name": "Host an in-person Fest", "earned": null }
+    ]}
+  ]
+}
