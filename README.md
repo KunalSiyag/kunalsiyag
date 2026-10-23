@@ -11,13 +11,28 @@
   <a href="mailto:kunalsiyag1@outlook.com">email</a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/GMI_Cloud-ambassador-ffa657?style=flat-square&labelColor=0b0e14" alt="GMI Cloud ambassador" />
+  <img src="https://img.shields.io/badge/Factory_AI-ambassador-ffa657?style=flat-square&labelColor=0b0e14" alt="Factory AI ambassador" />
+  <img src="https://img.shields.io/badge/Nebius-AI_Builder-ffa657?style=flat-square&labelColor=0b0e14" alt="Nebius AI Builder" />
+  <img src="https://img.shields.io/badge/OLake_x_Hacktoberfest-1st_prize-d2a8ff?style=flat-square&labelColor=0b0e14" alt="1st prize, OLake x Hacktoberfest" />
+  <img src="https://img.shields.io/badge/Hacktoberfest_2026-completionist-7ee787?style=flat-square&labelColor=0b0e14" alt="Hacktoberfest 2026 Completionist" />
+</p>
+
 I like projects you can *watch*: a camera that chases a cursor, a city that argues with itself, a checkout that falls over under load. Lately that means Rust on Linux graphics, simulations run by AI agents, and tooling for the agents themselves.
 
 ### currently
 
+- **Ambassador for GMI Cloud and Factory AI**, and a **Nebius AI Builder**. I build on their platforms in public: GridFall and Chandrapur run on GMI Cloud, and GridFall was written with Factory's Droid
 - Building **[SwarmCorp](https://github.com/KunalSiyag/swarmcorp)**, mission control for fleets of coding agents
-- Won **1st prize at OLake x Hacktoberfest** with [Ask OLake](https://github.com/KunalSiyag/ask-olake), a docs bot that says "I don't know"
-- Hacktoberfest 2026 **Completionist**, and contributing upstream to **openzim/mwoffliner** and **Apache Impala**
+
+### track record
+
+- **1st prize, OLake x Hacktoberfest 2026** with [Ask OLake](https://github.com/KunalSiyag/ask-olake), a docs bot that cites every answer and admits when it doesn't know · [write-up](https://dev.to/kunalsiyag/i-won-first-prize-at-olake-x-hacktoberfest-with-a-docs-bot-that-says-i-dont-know-4bd5)
+- **$200 prize** at the Hy 3.5 preview event
+- **Hacktoberfest 2026 Completionist**: 19 of 28 stickers, [sticker book below](#hacktoberfest-2026)
+- **IEEE conference paper**: a quantum-network protocol with decentralized identity and post-quantum CRYSTALS-Dilithium signatures, with ML anomaly detection at 0.9795 AUC-ROC across 100K+ simulations
+- **Products people use**: [proupiqr.in](https://www.proupiqr.in/) passed 14K+ impressions, and the URL shortener's package passed 700+ downloads
 
 ### featured
 
@@ -63,7 +78,9 @@ A store built to break on sale day: 26 switchable production bugs, 27 incident l
 - **[altsvg](https://github.com/KunalSiyag/altsvg)**: turns alt text into a same-size SVG placeholder, plain or in ASCII
 - **[fieldcards](https://github.com/KunalSiyag/fieldcards)**: outdoor photos into printable scavenger-hunt cards, using a local Gemma model
 - **[viralNest](https://github.com/KunalSiyag/viralNest)** · [live](https://pintdownload.app): find, save and reuse viral content
-- **[ContributeHub](https://github.com/KunalSiyag/ContributeHub)**: finds open-source issues that match your skills
+- **[Project North Star](https://github.com/KunalSiyag/Project-NorthStar)**: a market-data platform with a Go matching engine; held sub-3 ms P99 engine latency at 5,000 ticks/sec in a live deployment
+- **[Project Atlas](https://github.com/KunalSiyag/Project-Atlas)**: a provider-independent AI agent platform in Go, starting from its inference gateway
+- **[Orion](https://github.com/KunalSiyag/ContributeHub)**: a workspace for open-source contributors, from finding an issue to the merged PR
 - **[URL_Shortener_DevOps](https://github.com/KunalSiyag/URL_Shortener_DevOps)**: Go + Redis + Postgres behind NGINX, with full CI/CD
 - **[farmerCibil](https://github.com/KunalSiyag/farmerCibil)**, **[SmartContracts](https://github.com/KunalSiyag/SmartContracts)**: escrow and supply-chain contracts in Solidity
 
