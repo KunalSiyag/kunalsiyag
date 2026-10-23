@@ -60,6 +60,20 @@ A store built to break on sale day: 26 switchable production bugs, 27 incident l
 
 </td>
 </tr>
+<tr>
+<td valign="top">
+
+**[ProUpiQr](https://github.com/KunalSiyag/upi-qr)** · [live](https://www.proupiqr.in/)<br/>
+Free UPI QR codes for shops, cabs and freelancers, made on your device. 250K+ impressions and about 150 users a day.
+
+</td>
+<td valign="top">
+
+**[ProtectedShare](https://github.com/KunalSiyag/protectedshare)** · [live](https://protectedshare.me)<br/>
+Self-destructing links for passwords, API keys and `.env` files. Encrypted in the browser, so the server never sees them.
+
+</td>
+</tr>
 </table>
 
 <details>
@@ -67,8 +81,6 @@ A store built to break on sale day: 26 switchable production bugs, 27 incident l
 <br/>
 
 - **[Chandrapur](https://github.com/KunalSiyag/chandrapur)**: a harvest-fair day in a North Indian railway town in Three.js, with villagers you can talk to by voice
-- **[ProtectedShare](https://github.com/KunalSiyag/protectedshare)** · [live](https://protectedshare.me): self-destructing links for secrets and `.env` files, encrypted in the browser
-- **[ProUpiQr](https://github.com/KunalSiyag/upi-qr)** · [live](https://www.proupiqr.in/): free, local-only UPI QR codes for shops, cabs and freelancers; 250K+ impressions and about 150 users a day
 - **[Ask OLake](https://github.com/KunalSiyag/ask-olake)**: a docs assistant that cites every answer and admits when it doesn't know
 - **[altsvg](https://github.com/KunalSiyag/altsvg)**: turns alt text into a same-size SVG placeholder, plain or in ASCII
 - **[fieldcards](https://github.com/KunalSiyag/fieldcards)**: outdoor photos into printable scavenger-hunt cards, using a local Gemma model
