@@ -96,11 +96,11 @@ Self-destructing links for passwords, API keys and `.env` files. Encrypted in th
 ### writing
 
 <!-- devto:start -->
+- [slothdesk: a local Gemma sorted my Downloads folder and found a secret I'd forgotten about](https://dev.to/kunalsiyag/slothdesk-a-local-gemma-sorted-my-downloads-folder-and-found-a-secret-id-forgotten-about-5db1) <sub>Oct 24, 2026 · 7 min</sub>
 - [I won first prize at OLake x Hacktoberfest with a docs bot that says "I don't know"](https://dev.to/kunalsiyag/i-won-first-prize-at-olake-x-hacktoberfest-with-a-docs-bot-that-says-i-dont-know-4bd5) <sub>Oct 19, 2026 · 6 min</sub>
 - [What $10 of Tinker credit bought: a fine-tuned Qwen3-8B that builds small-business sites, with Gemma 4 as its art director](https://dev.to/kunalsiyag/one-sentence-in-a-website-out-a-003-a-site-side-hustle-on-a-fine-tuned-qwen3-8b-and-gemma-4-27hj) <sub>Oct 17, 2026 · 11 min</sub>
 - [I built a SimCity where five AI mayors run the city, and you just watch](https://dev.to/kunalsiyag/why-every-roof-in-my-ai-run-city-was-a-mirror-and-two-other-fixes-2l8a) <sub>Oct 17, 2026 · 6 min</sub>
 - [Cursor-following auto-zoom on Linux Wayland: reading the cursor from the GPU in Rust](https://dev.to/kunalsiyag/cursor-following-auto-zoom-on-linux-wayland-reading-the-cursor-from-the-gpu-in-rust-4nij) <sub>Oct 17, 2026 · 8 min</sub>
-- [fieldcards: a local Gemma turns your photos into a printed scavenger hunt](https://dev.to/kunalsiyag/fieldcards-a-local-gemma-turns-your-photos-into-a-printed-scavenger-hunt-121) <sub>Oct 11, 2026 · 6 min</sub>
 
 <sub>[all posts on DEV →](https://dev.to/kunalsiyag)</sub>
 <!-- devto:end -->
