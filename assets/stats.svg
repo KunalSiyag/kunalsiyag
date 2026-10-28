@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="408" viewBox="0 0 960 408" role="img" aria-labelledby="title desc">
   <title id="title">GitHub stats for KunalSiyag</title>
-  <desc id="desc">repos: 22 public; stars: 8; followers: 9; merged prs: 108; commits: 888 in the last year; contribs: 2,412 in the last year; streak: 18 days now, 18 best; on github: 4 years. Top languages: TypeScript, GDScript, JavaScript, Python, Astro.</desc>
+  <desc id="desc">repos: 22 public; stars: 8; followers: 9; merged prs: 151; commits: 939 in the last year; contribs: 2,518 in the last year; streak: 19 days now, 19 best; on github: 4 years. Top languages: TypeScript, GDScript, JavaScript, Python, Astro.</desc>
   <style>
     text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace;font-size:13px;white-space:pre}
     .logo{fill:#d2a8ff;font-size:10px;opacity:.85}
@@ -35,27 +35,27 @@
   <text x="290" y="98"><tspan fill="#ffa657">repos      </tspan><tspan fill="#c9d1d9">22 public</tspan></text>
   <text x="290" y="118"><tspan fill="#ffa657">stars      </tspan><tspan fill="#c9d1d9">8</tspan></text>
   <text x="290" y="138"><tspan fill="#ffa657">followers  </tspan><tspan fill="#c9d1d9">9</tspan></text>
-  <text x="290" y="158"><tspan fill="#ffa657">merged prs </tspan><tspan fill="#c9d1d9">108</tspan></text>
-  <text x="290" y="178"><tspan fill="#ffa657">commits    </tspan><tspan fill="#c9d1d9">888 in the last year</tspan></text>
-  <text x="290" y="198"><tspan fill="#ffa657">contribs   </tspan><tspan fill="#c9d1d9">2,412 in the last year</tspan></text>
-  <text x="290" y="218"><tspan fill="#ffa657">streak     </tspan><tspan fill="#c9d1d9">18 days now, 18 best</tspan></text>
+  <text x="290" y="158"><tspan fill="#ffa657">merged prs </tspan><tspan fill="#c9d1d9">151</tspan></text>
+  <text x="290" y="178"><tspan fill="#ffa657">commits    </tspan><tspan fill="#c9d1d9">939 in the last year</tspan></text>
+  <text x="290" y="198"><tspan fill="#ffa657">contribs   </tspan><tspan fill="#c9d1d9">2,518 in the last year</tspan></text>
+  <text x="290" y="218"><tspan fill="#ffa657">streak     </tspan><tspan fill="#c9d1d9">19 days now, 19 best</tspan></text>
   <text x="290" y="238"><tspan fill="#ffa657">on github  </tspan><tspan fill="#c9d1d9">4 years</tspan></text>
   <text x="640" y="62" fill="#ffa657">languages</text>
-  <rect x="640.0" y="76" width="135.4" height="8" rx="2" fill="#3178c6"/>
+  <rect x="640.0" y="76" width="129.5" height="8" rx="2" fill="#3178c6"/>
   <circle cx="645" cy="104" r="4" fill="#3178c6"/>
-  <text x="656" y="108" fill="#c9d1d9">TypeScript    <tspan fill="#6e7681"> 43.1%</tspan></text>
-  <rect x="777.4" y="76" width="62.8" height="8" rx="2" fill="#355570"/>
+  <text x="656" y="108" fill="#c9d1d9">TypeScript    <tspan fill="#6e7681"> 41.4%</tspan></text>
+  <rect x="771.5" y="76" width="71.9" height="8" rx="2" fill="#355570"/>
   <circle cx="645" cy="124" r="4" fill="#355570"/>
-  <text x="656" y="128" fill="#c9d1d9">GDScript      <tspan fill="#6e7681"> 20.3%</tspan></text>
-  <rect x="842.2" y="76" width="40.6" height="8" rx="2" fill="#f1e05a"/>
+  <text x="656" y="128" fill="#c9d1d9">GDScript      <tspan fill="#6e7681"> 23.3%</tspan></text>
+  <rect x="845.4" y="76" width="39.0" height="8" rx="2" fill="#f1e05a"/>
   <circle cx="645" cy="144" r="4" fill="#f1e05a"/>
-  <text x="656" y="148" fill="#c9d1d9">JavaScript    <tspan fill="#6e7681"> 13.4%</tspan></text>
-  <rect x="884.8" y="76" width="23.6" height="8" rx="2" fill="#3572A5"/>
+  <text x="656" y="148" fill="#c9d1d9">JavaScript    <tspan fill="#6e7681"> 12.9%</tspan></text>
+  <rect x="886.4" y="76" width="22.8" height="8" rx="2" fill="#3572A5"/>
   <circle cx="645" cy="164" r="4" fill="#3572A5"/>
-  <text x="656" y="168" fill="#c9d1d9">Python        <tspan fill="#6e7681">  8.0%</tspan></text>
-  <rect x="910.4" y="76" width="17.6" height="8" rx="2" fill="#ff5a03"/>
+  <text x="656" y="168" fill="#c9d1d9">Python        <tspan fill="#6e7681">  7.8%</tspan></text>
+  <rect x="911.2" y="76" width="16.8" height="8" rx="2" fill="#ff5a03"/>
   <circle cx="645" cy="184" r="4" fill="#ff5a03"/>
-  <text x="656" y="188" fill="#c9d1d9">Astro         <tspan fill="#6e7681">  6.2%</tspan></text>
+  <text x="656" y="188" fill="#c9d1d9">Astro         <tspan fill="#6e7681">  5.9%</tspan></text>
   <text x="28" y="282" fill="#6e7681">$ git log --since="1 year ago" | heatmap</text>
   <text x="28.0" y="296" fill="#232a36" font-size="9" textLength="14" lengthAdjust="spacingAndGlyphs">··<title>2025-10-26: 0</title></text>
   <text x="28.0" y="310.2" fill="#232a36" font-size="9" textLength="14" lengthAdjust="spacingAndGlyphs">··<title>2025-10-27: 0</title></text>
@@ -423,5 +423,6 @@
   <text x="874.6" y="381.2" fill="#39d353" font-size="9" textLength="14" lengthAdjust="spacingAndGlyphs">██<title>2026-10-24: 57</title></text>
   <text x="891.2" y="296" fill="#39d353" font-size="9" textLength="14" lengthAdjust="spacingAndGlyphs">██<title>2026-10-25: 100</title></text>
   <text x="891.2" y="310.2" fill="#39d353" font-size="9" textLength="14" lengthAdjust="spacingAndGlyphs">██<title>2026-10-26: 44</title></text>
-  <text x="891.2" y="324.4" fill="#39d353" font-size="9" textLength="14" lengthAdjust="spacingAndGlyphs">██<title>2026-10-27: 29</title></text>
+  <text x="891.2" y="324.4" fill="#39d353" font-size="9" textLength="14" lengthAdjust="spacingAndGlyphs">██<title>2026-10-27: 60</title></text>
+  <text x="891.2" y="338.6" fill="#39d353" font-size="9" textLength="14" lengthAdjust="spacingAndGlyphs">██<title>2026-10-28: 75</title></text>
 </svg>
