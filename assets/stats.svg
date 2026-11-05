@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="408" viewBox="0 0 960 408" role="img" aria-labelledby="title desc">
   <title id="title">GitHub stats for KunalSiyag</title>
-  <desc id="desc">repos: 22 public; stars: 10; followers: 9; merged prs: 207; commits: 1,012 in the last year; contribs: 2,701 in the last year; streak: 26 days now, 26 best; on github: 4 years. Top languages: TypeScript, GDScript, JavaScript, Python, Astro.</desc>
+  <desc id="desc">repos: 22 public; stars: 10; followers: 9; merged prs: 207; commits: 1,012 in the last year; contribs: 2,704 in the last year; streak: 26 days now, 26 best; on github: 4 years. Top languages: TypeScript, GDScript, JavaScript, Python, Astro.</desc>
   <style>
     text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace;font-size:13px;white-space:pre}
     .logo{fill:#d2a8ff;font-size:10px;opacity:.85}
@@ -37,7 +37,7 @@
   <text x="290" y="138"><tspan fill="#ffa657">followers  </tspan><tspan fill="#c9d1d9">9</tspan></text>
   <text x="290" y="158"><tspan fill="#ffa657">merged prs </tspan><tspan fill="#c9d1d9">207</tspan></text>
   <text x="290" y="178"><tspan fill="#ffa657">commits    </tspan><tspan fill="#c9d1d9">1,012 in the last year</tspan></text>
-  <text x="290" y="198"><tspan fill="#ffa657">contribs   </tspan><tspan fill="#c9d1d9">2,701 in the last year</tspan></text>
+  <text x="290" y="198"><tspan fill="#ffa657">contribs   </tspan><tspan fill="#c9d1d9">2,704 in the last year</tspan></text>
   <text x="290" y="218"><tspan fill="#ffa657">streak     </tspan><tspan fill="#c9d1d9">26 days now, 26 best</tspan></text>
   <text x="290" y="238"><tspan fill="#ffa657">on github  </tspan><tspan fill="#c9d1d9">4 years</tspan></text>
   <text x="640" y="62" fill="#ffa657">languages</text>
@@ -424,5 +424,6 @@
   <text x="891.2" y="296" fill="#26a641" font-size="9" textLength="14" lengthAdjust="spacingAndGlyphs">▓▓<title>2026-11-01: 6</title></text>
   <text x="891.2" y="310.2" fill="#26a641" font-size="9" textLength="14" lengthAdjust="spacingAndGlyphs">▓▓<title>2026-11-02: 9</title></text>
   <text x="891.2" y="324.4" fill="#39d353" font-size="9" textLength="14" lengthAdjust="spacingAndGlyphs">██<title>2026-11-03: 11</title></text>
-  <text x="891.2" y="338.6" fill="#26a641" font-size="9" textLength="14" lengthAdjust="spacingAndGlyphs">▓▓<title>2026-11-04: 6</title></text>
+  <text x="891.2" y="338.6" fill="#26a641" font-size="9" textLength="14" lengthAdjust="spacingAndGlyphs">▓▓<title>2026-11-04: 9</title></text>
+  <text x="891.2" y="352.8" fill="#232a36" font-size="9" textLength="14" lengthAdjust="spacingAndGlyphs">··<title>2026-11-05: 0</title></text>
 </svg>
