@@ -96,11 +96,11 @@ Self-destructing links for passwords, API keys and `.env` files. Encrypted in th
 ### writing
 
 <!-- devto:start -->
+- [My directory sells ads. Here's the lint rule and the tests that keep them out of the ranking](https://dev.to/appfinder/my-directory-sells-ads-heres-the-lint-rule-and-the-tests-that-keep-them-out-of-the-ranking-3jcl) <sub>Nov 20, 2026 · 4 min</sub>
+- [I checked 31 launch sites by hand. Only 3 give a followed link without asking for something back](https://dev.to/appfinder/i-checked-31-launch-sites-by-hand-only-3-give-a-followed-link-without-asking-for-something-back-1ngo) <sub>Nov 20, 2026 · 4 min</sub>
 - [git-ofrenda: a local Gemma builds a Día de los Muertos altar for your deleted code](https://dev.to/kunalsiyag/git-ofrenda-a-local-gemma-builds-a-dia-de-los-muertos-altar-for-your-deleted-code-27cd) <sub>Oct 31, 2026 · 6 min</sub>
 - [slothdesk: a local Gemma sorted my Downloads folder and found a secret I'd forgotten about](https://dev.to/kunalsiyag/slothdesk-a-local-gemma-sorted-my-downloads-folder-and-found-a-secret-id-forgotten-about-5db1) <sub>Oct 24, 2026 · 7 min</sub>
 - [I won first prize at OLake x Hacktoberfest with a docs bot that says "I don't know"](https://dev.to/kunalsiyag/i-won-first-prize-at-olake-x-hacktoberfest-with-a-docs-bot-that-says-i-dont-know-4bd5) <sub>Oct 19, 2026 · 6 min</sub>
-- [What $10 of Tinker credit bought: a fine-tuned Qwen3-8B that builds small-business sites, with Gemma 4 as its art director](https://dev.to/kunalsiyag/one-sentence-in-a-website-out-a-003-a-site-side-hustle-on-a-fine-tuned-qwen3-8b-and-gemma-4-27hj) <sub>Oct 17, 2026 · 11 min</sub>
-- [I built a SimCity where five AI mayors run the city, and you just watch](https://dev.to/kunalsiyag/why-every-roof-in-my-ai-run-city-was-a-mirror-and-two-other-fixes-2l8a) <sub>Oct 17, 2026 · 6 min</sub>
 
 <sub>[all posts on DEV →](https://dev.to/kunalsiyag)</sub>
 <!-- devto:end -->
